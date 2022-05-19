@@ -1,0 +1,44 @@
+*{
+    font-family: "Comfortaa", cursive;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.speed_div{
+    float: left;
+}
+
+.img_f{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.btn_f{
+    color: white;
+    font-size: 18px;
+    margin: 15px;
+}
+
+.volume_div{
+    float: right;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 12px;
+    color: black;
+}
+
+canvas{
+    border: 3px ridge white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px aqua;
+}
